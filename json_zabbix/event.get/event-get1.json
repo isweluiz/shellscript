@@ -1,0 +1,15 @@
+{
+	"jsonrpc": "2.0",
+	"method": "event.get",
+	"id": 2,
+	"auth": "b82d6226106a2083003425115b6c9229",
+	"params": {
+		"output":"extend",
+		"eventid":"00000000 "
+		"select_acknowledges": ["acknowledgeid", "userid", "eventid", "message ", "clock", "surname"],
+		"groupid": "63",
+		"limit": "5",
+		"sortfield": ["clock", "eventid"],
+		"sortorder": "DESC"
+	}
+}
