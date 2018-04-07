@@ -16,7 +16,7 @@ $ curl -X POST -H 'Content-Type:application/json' --data @apiinfo.version.json h
 
 Second alternative 
 
-Utilize my script in comand line
+Utilize my script in command line
 ````sh
 [root@isweluiz apiinfo.version]# ./fatilizken.sh apiinfo.version.json
 {
@@ -28,6 +28,7 @@ Utilize my script in comand line
 
 For more alternative 
  **Contacte me** 
+
 -My linkedin [Linkedin](https://www.linkedin.com/in/isweluiz/)
 
 
