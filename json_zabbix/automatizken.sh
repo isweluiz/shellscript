@@ -11,8 +11,8 @@
 Data=`date +%d-%m-%Y-%H-%M`
 Whoami=`whoami`
 URL='http://zabbix.teste.jus.br/zabbix/api_jsonrpc.php' #Url do seu zabbix
-USER='"serope"' #Usuário para acessar o zabbix
-PASS='"serope"' #Senha para acessar o zabbix
+USER='"user"' #Usuário para acessar o zabbix
+PASS='"pass"' #Senha para acessar o zabbix
 arq_log="/var/log/geradordetoken.log" #Diretório onde será armazedo o log
 echo "------------------+-----------------------" >> $arq_log
 echo "Executado em:"$Data >> $arq_log
