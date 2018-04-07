@@ -1,0 +1,13 @@
+{
+	"jsonrpc": "2.0",
+	"method": "hostgroup.get",
+	"id": 25,
+	"auth": "1b4063c2fe81e119385788abd353ef87",
+	"params": {
+		"output": ["groupid", "name", "host"],
+		"with_triggers": "1",
+		"monitored_hosts": "1",
+		"real_hosts": "1"
+	}
+}
+
