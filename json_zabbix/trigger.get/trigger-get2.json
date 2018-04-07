@@ -1,0 +1,24 @@
+{
+	"jsonrpc": "2.0",
+	"method": "trigger.get",
+	"id": 30,
+	"auth": "1b4063c2fe81e119385788abd353ef87",
+	"params": {
+		"filter": {
+			"value": "1",
+			"priority": ["3", "4", "5"]
+		},
+		"output": ["triggerid", "description", "value", "comments", "priority", "status"],
+		"monitored": "y",
+		"sortfield": "lastchange",
+		"maintenance": "false",
+		"select_acknowledges": "extend",
+		"hostids": "12917",
+		"selectGroups": ["groupid", "name"],
+		"expandDescription": "1",
+		"selectHosts": ["hostid", "host", "name", "status", "available"],
+		"skipDependent": "1",
+		"lastEvent": ["eventid", "objectid", "clock", "value", "acknowledged"]
+	}
+}
+
