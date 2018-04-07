@@ -1,0 +1,16 @@
+{
+	"jsonrpc": "2.0",
+	"method": "problem.get",
+	"id": 4,
+	"auth": " ",
+	"params": {
+		"output": ["eventid", "userid", "objectid", "r_eventid", "status"],
+		"selectAcknowledges": "extend",
+		"selectTags": "extend",
+		"limit": 10,
+		"groupid": "63",
+		"recent": "true",
+		"sortfield": ["eventid"],
+		"sortorder": "DESC"
+	}
+}

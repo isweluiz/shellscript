@@ -1,0 +1,15 @@
+{
+    "jsonrpc": "2.0",
+    "method": "problem.get",
+    "params": {
+        "output": "extend",
+        "selectAcknowledges": "extend",
+        "selectTags": "extend",
+        "objectids": "15112",
+        "recent": "true",
+        "sortfield": ["eventid"],
+        "sortorder": "DESC"
+    },
+    "auth": "39ad366f918d5bdf5efaefda5c746d6d",
+    "id": 1
+}
