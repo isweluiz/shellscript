@@ -1,0 +1,11 @@
+{
+	"jsonrpc": "2.0",
+	"method": "host.get",
+	"id": 21,
+	"auth": "1b4063c2fe81e119385788abd353ef87",
+	"params": {
+		"with_monitored_triggers": "1",
+		"output": "extend",
+		"selectGroups": ["groupid", "name"]
+	}
+}
