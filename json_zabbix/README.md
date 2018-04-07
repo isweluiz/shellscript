@@ -26,7 +26,7 @@ Utilize my script in command line
 }
 ````
 
-For more alternative 
+For more alternatives 
  **Contacte me** 
 
 -My linkedin [Linkedin](https://www.linkedin.com/in/isweluiz/)
