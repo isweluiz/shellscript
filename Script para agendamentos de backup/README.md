@@ -1,11 +1,6 @@
-#  ____  _____    _    ____  __  __ _____ 
-#   |  _ \| ____|  / \  |  _ \|  \/  | ____|
-#   | |_) |  _|   / _ \ | | | | |\/| |  _|  
-#   |  _ <| |___ / ___ \| |_| | |  | | |___ 
-#   |_| \_|_____/_/   \_|____/|_|  |_|_____|
-#                                           
-NOME FICTICIO  FAST BACKUP 
-AUTORES: luiz eduardo
+
+FAST BACKUP 
+Autor: Luiz Eduardo
 
 Sobre o fast backup 
 O script fast backup foi construído para facilitar as atividades realizadas pelos utilizadores do sistema linux bem como dos administradores
