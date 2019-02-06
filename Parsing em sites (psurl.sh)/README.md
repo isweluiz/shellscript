@@ -31,7 +31,7 @@ total 4.0K
         \/     \/     \/           \/                       \/          \/        \/_____/
 ........................................................................blog.isweluiz.com.br
 
-Ex de utilizaçção - www.globo.com.br , www.uol.com.br
+Ex de utilização - Declare o site: www.globo.com.br 
 
 Declare o site: www.globo.com.br
 2019-02-06 16:58:56 URL:http://www.globo.com/ [734244/734244] -> "index.html" [1]
