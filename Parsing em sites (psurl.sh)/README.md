@@ -10,8 +10,8 @@ do (s) site (s).
 O script deve funcionar conforme saída abaixo. 
 
 - Baixe o script em um diretório vazio
-- Dê permissões de escritas
-- Execute
+- Dê permissão de execução
+- Execute 
 - Informe o site alvo 
 
  ```
