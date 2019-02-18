@@ -1,7 +1,7 @@
 # DNS DOMAIS search 
 
  #### Objetivo 
-O objetivo deste script usando Bash Script é identificar possiveis domínios de um site fazendo uso de uma lista de palavras que podem ser adicionadas em um arquivos e passadas como argumento para o script.
+O objetivo deste script usando Bash Script é identificar possiveis domínios de um site fazendo uso de uma lista de palavras que podem ser adicionadas em um arquivo que serão passadas como argumento para o script.
 
  ---
  
