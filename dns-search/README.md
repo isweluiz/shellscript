@@ -43,6 +43,8 @@ extranet.globo.com has address 201.7.176.56
 ghs.google.com has address 216.58.202.243
 forum.globo.com has address 186.192.90.5
 counterstrike.globo.com has address 201.7.180.199
+ftp.globo.com has address 201.7.184.43
+
 .
 .
 .
