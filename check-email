@@ -1,0 +1,7 @@
+Type 'telnet ip_address_of_FaxMaker_Server 25' (substitute the italic entry with a valid IP address), press enter
+Type 'helo', press enter
+Type 'mail from:E-mail_address_of_licensed_FaxMaker_user' (substitute the italic entry with a valid email address), press enter
+Type 'rcpt to:19193793409@faxmaker.com', press enter
+Type 'data', press enter
+Type 'Test Fax', press enter
+Type '.' (period), press enter
